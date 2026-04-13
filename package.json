@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/DarcyOrtegaSullcaccori/todo-backend/issues"
   },
-  "homepage": "https://github.com/DarcyOrtegaSullcaccori/todo-backend#readme"
+  "homepage": "https://github.com/DarcyOrtegaSullcaccori/todo-backend#readme",
+  "dependencies": {
+    "fastify": "^5.8.4"
+  }
 }
